@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "YOG TANDEL",
-  "license": "ISC",
-  "dependencies": {
-    "quick-ping": "file:"
-  }
+  "license": "ISC"
 }
